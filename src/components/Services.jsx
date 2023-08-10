@@ -4,20 +4,20 @@ import './services.css';
 
 const featuresData = [
   {
-    title: 'Improving end distrusts instantly',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.',
+    title: 'Web Development',
+    text: 'From website desiging , website hostings , website maintainance and website SEO',
   },
   {
-    title: 'Become the tended active',
-    text: 'Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.',
+    title: 'Digital Marketing',
+    text: 'Grow your business ,agency , private and public organizations within digital world',
   },
   {
-    title: 'Message or am nothing',
-    text: 'Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.',
+    title: 'Graphics Design',
+    text: 'Offer us modern design graphics design , animation design  and video editing',
   },
   {
-    title: 'Really boy law county',
-    text: 'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush..',
+    title: 'App Development',
+    text: 'From app desiging , app hostings , app maintainance and app SEO',
   },
 ];
 

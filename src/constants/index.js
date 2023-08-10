@@ -13,6 +13,10 @@ import {
   binance,
   coinbase,
   dropbox,
+  starbucks,
+  tesla,
+  shopify,
+  meta
 } from "../assets";
 
 export const navLinks = [
@@ -142,5 +146,62 @@ export const clients = [
   {
     id: "client-4",
     logo: dropbox,
+  },
+];
+
+
+
+export const experiences = [
+  {
+    title: "Graphics Designer",
+    company_name: "Canva Designer",
+    icon: starbucks,
+    iconBg: "#383E56",
+    date: "Good software, like wine, takes time",
+    points: [
+      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Participating in code reviews and providing constructive feedback to other developers.",
+    ],
+  },
+  {
+    title: "PWA App Developer",
+    company_name: "Vite & NEXT",
+    icon: tesla,
+    iconBg: "#E6DEDD",
+    date: "Real programmer can write assembly code in any language",
+    points: [
+      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Participating in code reviews and providing constructive feedback to other developers.",
+    ],
+  },
+  {
+    title: "NEXT JS Web Developer",
+    company_name: "Fully Dynamic",
+    icon: shopify,
+    iconBg: "#383E56",
+    date: "I hate programming but when it WORKS! I love programming",
+    points: [
+      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Participating in code reviews and providing constructive feedback to other developers.",
+    ],
+  },
+  {
+    title: "MERN stack Developer",
+    company_name: "Multi-Vendor Developer",
+    icon: meta,
+    iconBg: "#E6DEDD",
+    date: "!FALSE , It's not funny because it's TRUE",
+    points: [
+      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Participating in code reviews and providing constructive feedback to other developers.",
+    ],
   },
 ];

@@ -19,7 +19,15 @@ import airbnb from "./airbnb.png";
 import binance from "./binance.png";
 import coinbase from "./coinbase.png";
 import dropbox from "./dropbox.png";
+import meta from "./company/meta.png";
+import shopify from "./company/shopify.png";
+import starbucks from "./company/starbucks.png";
+import tesla from "./company/tesla.png";
 export {
+  meta,
+  shopify,
+  starbucks,
+  tesla,
   menu,
   logo,
   close,
